@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masoud</h1>
-<h3 align="center">A high skill Developer with passion of problem solving</h3>
+<h3 align="center">A high skilled Developer with the passion of problem-solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdp66&label=Profile%20views&color=0e75b6&style=flat" alt="mdp66" /> </p>
 
